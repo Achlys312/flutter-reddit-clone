@@ -4,9 +4,9 @@ Responsive Full Stack Reddit Clone - Works on Android, iOS & Web!
 
 ## Features
 - Google/Guest Authentication
-- Create, Join community
+- Create, Join the community
 - Community Profile (Avatar, Banner, Members) 
-- Edit Description and Avatar of community
+- Edit the Description and Avatar of the community
 - Post (link only, photo, text only) 
 - Displaying posts from communities user is part of
 - Upvote, Downvote
